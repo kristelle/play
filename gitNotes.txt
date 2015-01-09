@@ -1,3 +1,11 @@
-cd change directory
-$git init 
+cd --change directory
+$git init initialize git program and create repository
 $ git status
+$ git add
+to commit - $git commit (leave a message regarding what the file is about) "First test"
+DON"T forget the note
+then git add again
+git log to see what you did
+type a few things out before install at home-
+git config --global user.name "yourname"
+git config --global user.email "yourmail"
