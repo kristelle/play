@@ -2,10 +2,14 @@ cd --change directory
 $git init initialize git program and create repository
 $ git status
 $ git add
-to commit - $git commit (leave a message regarding what the file is about) "First test"
+to commit - $git commit -m (leave a message regarding what the file is about) "First test"
 DON"T forget the note
 then git add again
 git log to see what you did
 type a few things out before install at home-
 git config --global user.name "yourname"
 git config --global user.email "yourmail"
+git add . adds everything
+git add *.txt to add all text files
+to rid a file type git reset stuff(filename)blah.html(folder name)
+Good idea to use branches to try something out, if successful merge into master- git checkout sideproject (branch)
